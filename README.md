@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ashu  Kumar and I'm a DevOps Engineer from India</h2>
+<h2 align="left">Hi 👋! My name is Ashu  Kumar and I'm a MERN stack developer and cloud technologies enthusiasts from India</h2>
 
 ###
 
